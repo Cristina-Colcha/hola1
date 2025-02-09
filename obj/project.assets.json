@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - Universidad Central del Ecuador\\Escritorio\\OrdenarNumerosC--main\\OrdenarNumerosApp.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\hola\\OrdenarNumerosApp.csproj",
       "projectName": "OrdenarNumerosApp",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive - Universidad Central del Ecuador\\Escritorio\\OrdenarNumerosC--main\\OrdenarNumerosApp.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\hola\\OrdenarNumerosApp.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive - Universidad Central del Ecuador\\Escritorio\\OrdenarNumerosC--main\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\hola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

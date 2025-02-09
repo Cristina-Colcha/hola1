@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrdenarNumerosApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e665ceb08aadd2b91afb4c05b05b19bdd73d8783")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a86557ee95ae5d1f45a3e6d1f355646a4f19c0bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrdenarNumerosApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrdenarNumerosApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
